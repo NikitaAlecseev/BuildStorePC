@@ -1,0 +1,129 @@
+D:\Project VS\BuildStore\BuildStore\bin\Debug\BuildStore.exe.config
+D:\Project VS\BuildStore\BuildStore\bin\Debug\BuildStore.exe
+D:\Project VS\BuildStore\BuildStore\bin\Debug\BuildStore.pdb
+D:\Project VS\BuildStore\BuildStore\bin\Debug\MaterialSkin.dll
+D:\Project VS\BuildStore\BuildStore\obj\Debug\BuildStore.csproj.AssemblyReference.cache
+D:\Project VS\BuildStore\BuildStore\obj\Debug\BuildStore.csproj.SuggestedBindingRedirects.cache
+D:\Project VS\BuildStore\BuildStore\obj\Debug\BuildStore.Properties.Resources.resources
+D:\Project VS\BuildStore\BuildStore\obj\Debug\BuildStore.csproj.GenerateResource.cache
+D:\Project VS\BuildStore\BuildStore\obj\Debug\BuildStore.csproj.CoreCompileInputs.cache
+D:\Project VS\BuildStore\BuildStore\obj\Debug\BuildStore.csproj.CopyComplete
+D:\Project VS\BuildStore\BuildStore\obj\Debug\BuildStore.exe
+D:\Project VS\BuildStore\BuildStore\obj\Debug\BuildStore.pdb
+D:\Project VS\BuildStore\BuildStore\obj\Debug\BuildStore.Forms.FormAuthorization.resources
+D:\Project VS\BuildStore\BuildStore\obj\Debug\BuildStore.Forms.FormMain.resources
+D:\Project VS\BuildStore\BuildStore\obj\Debug\BuildStore.Forms.FormAddProduct.resources
+D:\Project VS\BuildStore\BuildStore\obj\Debug\BuildStore.Tiles.TileProduct.resources
+D:\Project VS\BuildStore\BuildStore\obj\Debug\BuildStore.Tiles.TileSpecifications.resources
+D:\Project VS\BuildStore\BuildStore\bin\Debug\BouncyCastle.Crypto.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\Google.Protobuf.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\K4os.Compression.LZ4.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\K4os.Hash.xxHash.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\MySql.Data.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\System.Buffers.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\System.Memory.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\System.Numerics.Vectors.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\Ubiety.Dns.Core.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\ZstdNet.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\Google.Protobuf.pdb
+D:\Project VS\BuildStore\BuildStore\bin\Debug\Google.Protobuf.xml
+D:\Project VS\BuildStore\BuildStore\bin\Debug\K4os.Compression.LZ4.xml
+D:\Project VS\BuildStore\BuildStore\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Project VS\BuildStore\BuildStore\bin\Debug\K4os.Hash.xxHash.xml
+D:\Project VS\BuildStore\BuildStore\bin\Debug\MySql.Data.xml
+D:\Project VS\BuildStore\BuildStore\bin\Debug\System.Buffers.xml
+D:\Project VS\BuildStore\BuildStore\bin\Debug\System.Memory.xml
+D:\Project VS\BuildStore\BuildStore\bin\Debug\System.Numerics.Vectors.xml
+D:\Project VS\BuildStore\BuildStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project VS\BuildStore\BuildStore\obj\Debug\BuildStore.Tiles.TileUser.resources
+D:\Project VS\BuildStore\BuildStore\obj\Debug\BuildStore.Forms.FormAddUser.resources
+D:\Project VS\BuildStore\BuildStore\obj\Debug\BuildStore.Forms.FormAddCategory.resources
+D:\Project VS\BuildStore\BuildStore\obj\Debug\BuildStore.Tiles.TileCategory.resources
+D:\Project VS\BuildStore\BuildStore\obj\Debug\BuildStore.Forms.FormEditCategory.resources
+D:\Project VS\BuildStore\BuildStore\obj\Debug\BuildStore.Forms.FormEditProduct.resources
+D:\Project VS\BuildStore\BuildStore\obj\Debug\BuildStore.Forms.FormEditUser.resources
+D:\Project VS\BuildStore\BuildStore\obj\Debug\BuildStore.Forms.FormAddDiscount.resources
+D:\Project VS\BuildStore\BuildStore\bin\Debug\Deedle.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\FSharp.Core.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\Deedle.pdb
+D:\Project VS\BuildStore\BuildStore\bin\Debug\FSharp.Core.xml
+D:\Project VS\BuildStore\BuildStore\bin\Debug\cs\FSharp.Core.resources.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\de\FSharp.Core.resources.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\en\FSharp.Core.resources.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\es\FSharp.Core.resources.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\fr\FSharp.Core.resources.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\it\FSharp.Core.resources.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\ja\FSharp.Core.resources.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\ko\FSharp.Core.resources.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\pl\FSharp.Core.resources.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\pt-BR\FSharp.Core.resources.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\ru\FSharp.Core.resources.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\tr\FSharp.Core.resources.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\Project VS\BuildStore\BuildStore\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\BuildStore.exe.config
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\BuildStore.exe
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\BuildStore.pdb
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\BouncyCastle.Crypto.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\Deedle.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\FSharp.Core.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\Google.Protobuf.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\K4os.Compression.LZ4.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\K4os.Hash.xxHash.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\MaterialSkin.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\MySql.Data.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\System.Buffers.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\System.Memory.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\System.Numerics.Vectors.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\Ubiety.Dns.Core.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\ZstdNet.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\Deedle.pdb
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\FSharp.Core.xml
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\Google.Protobuf.pdb
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\Google.Protobuf.xml
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\K4os.Compression.LZ4.xml
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\K4os.Hash.xxHash.xml
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\MySql.Data.xml
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\System.Buffers.xml
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\System.Memory.xml
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\System.Numerics.Vectors.xml
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\cs\FSharp.Core.resources.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\de\FSharp.Core.resources.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\en\FSharp.Core.resources.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\es\FSharp.Core.resources.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\fr\FSharp.Core.resources.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\it\FSharp.Core.resources.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\ja\FSharp.Core.resources.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\ko\FSharp.Core.resources.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\pl\FSharp.Core.resources.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\pt-BR\FSharp.Core.resources.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\ru\FSharp.Core.resources.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\tr\FSharp.Core.resources.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\obj\Debug\BuildStore.csproj.AssemblyReference.cache
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\obj\Debug\BuildStore.Forms.FormAddCategory.resources
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\obj\Debug\BuildStore.Forms.FormAddDiscount.resources
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\obj\Debug\BuildStore.Forms.FormAddProduct.resources
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\obj\Debug\BuildStore.Forms.FormAddUser.resources
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\obj\Debug\BuildStore.Forms.FormAuthorization.resources
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\obj\Debug\BuildStore.Forms.FormEditCategory.resources
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\obj\Debug\BuildStore.Forms.FormEditProduct.resources
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\obj\Debug\BuildStore.Forms.FormEditUser.resources
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\obj\Debug\BuildStore.Forms.FormMain.resources
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\obj\Debug\BuildStore.Properties.Resources.resources
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\obj\Debug\BuildStore.Tiles.TileCategory.resources
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\obj\Debug\BuildStore.Tiles.TileProduct.resources
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\obj\Debug\BuildStore.Tiles.TileSpecifications.resources
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\obj\Debug\BuildStore.Tiles.TileUser.resources
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\obj\Debug\BuildStore.csproj.GenerateResource.cache
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\obj\Debug\BuildStore.csproj.CoreCompileInputs.cache
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\obj\Debug\BuildStore.csproj.Up2Date
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\obj\Debug\BuildStore.exe
+E:\Project VS\Дипломные работы\BuildStore\BuildStore\obj\Debug\BuildStore.pdb
